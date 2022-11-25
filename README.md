@@ -1,4 +1,4 @@
-# folder-synchronization-task
+# folder-synchronization-task in python
 
 A folder synchronization programme without using libraries that implement folder synchronization.
 User is asked to provide path to source folder, replica folder, log file. User is also asked to provide synchronization interval.
