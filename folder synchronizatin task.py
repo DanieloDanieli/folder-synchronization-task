@@ -5,6 +5,7 @@ import filecmp
 import sys
 
 def log(message, filename):
+    # logs changes and prints out said log
     with open(log_file, 'a') as f:
                     f.write(message + ' ')
                     f.write(filename)
